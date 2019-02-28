@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Don Maslanka - welcome to my GitHub project!
+"Now that your pictures in the papers being rythmically admired"
 Use the left arrow to go back!
